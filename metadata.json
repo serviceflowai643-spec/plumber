@@ -1,0 +1,6 @@
+{
+  "name": "My London Plumbers Ltd",
+  "description": "24/7 emergency plumbing, boiler repair, heating and gas services across London from experienced Gas Safe registered professionals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
